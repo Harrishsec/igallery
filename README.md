@@ -223,7 +223,7 @@ Publish the website in the given URL.
 
   <footer>
     <p>&copy; 2024 Celebrity Gallery. All Rights Reserved.</p>
-    <p class="footer-credits">Designed and Developed by HARSHUL SL</p>
+    <p class="footer-credits">Designed and Developed by HARRISH P</p>
   </footer>
 
   <script>
@@ -252,7 +252,8 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 ![alt text](image.png)
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/1dc7830d-fa92-416c-9303-33f3ba10ffa9)
+
 
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
